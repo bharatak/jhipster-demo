@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.thoughtworks.bank"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "bank",
+    "packageName": "com.thoughtworks.bank",
+    "packageFolder": "com/thoughtworks/bank",
+    "serverPort": "8081",
+    "authenticationType": "oauth2",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "ZWNlZmU1MTdhOWE5OTRkYjBiZjYwY2NmMjI5ZGVhMjg1Y2M1YzU4MTE0YzczM2U0ZDA0MTlmNjQ3ZDVmZmI5ZDRjODA5NDMyOTFjZjkzNTdkNGY0YWNkMmY3ZGNiNjEyY2Q1ODQ2ZDljZTA0ZjNiYjUwNmQxMWY4YmRiNjNjNjE=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1600132207589,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
